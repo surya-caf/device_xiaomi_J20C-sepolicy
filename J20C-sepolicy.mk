@@ -8,6 +8,7 @@ BOARD_SEPOLICY_DIRS += \
     device/xiaomi/J20C-sepolicy/fingerprint/vendor \
     device/xiaomi/J20C-sepolicy/leds/vendor \
     device/xiaomi/J20C-sepolicy/qcom-extra/vendor \
+    device/xiaomi/J20C-sepolicy/mi_thermald/vendor \
 
 J20C_SEPOLICY_INCLUDED := true
 endif
